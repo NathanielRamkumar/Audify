@@ -1,0 +1,82 @@
+ 
+Name: Nathaniel Ramkumar and Wenqiang Yang    
+Date: 03/05/2025
+1. A circuit has 2.5K ohm, 3.6K ohm, and 9.5K ohm resistors in series. (a) How much is the total resistance of the entire circuit? (b) How much current flows in each resistance with a voltage of 180 V applied across the series circuit? (c) Find the voltage drop across each resistor .  
+Givens
+                      
+R1=2.5K ohm R2 = 3.6K ohm R3 = 9.5K ohm Vt = 180 V
+Find? Voltage drop across each resistor   Sketch the Schematic Diagram  
+Power Voltage Current Resistance Resistor 1 309.46 mW 26.84 V 11.53 mA 2.5K ohm
+Resistor 2 478.49 mW 41.50 V 11.53 mA 3.6K ohm
+Resistor 3 1.26 W 109.61 V 11.53 mA 9.5K ohm
+Total
+2.07 W 180V 11.53 mA 15.6K ohm    
+2. A 1.5K ohms resistor is in series with an unknown resistance. The applied voltage equals 36V, and the series current is 14.4mA. (a) Calculate the value of the unknown resistor . (b) Calculate I1? I2? It? (c) Calculate Rt? Givens
+                       
+R1 = 1.5K ohm Vt = 36 V It = 14.4 mA
+Find?
+R2 I1, I2, I3 Rt Sketch the Schematic Diagram Power Voltage Current Resistance Resistor 1 311.04 mW 21.6 V 14.4 mA 1.5K ohm
+Resistor 2 207.36 mW 14.4 V 14.4 mA 1K ohm
+Total 518.4 mW 36V 14.4 mA 2.5K ohm  
+3. A circuit has a source voltage of 180V with a current of 3mA. Three resistors are connected in series
+: R1 is 10K
+  
+ohms; R2 is 30K
+  
+ohms while R3 is unknown. Analyze the series circuit to calculate the total resistance, current of all three resistors, and the voltage drop across R1, R2, and R3. Givens
+                       
+Vt = 180V R1 = 10K ohm R2 = 30K ohm
+Find?
+Rt I1, I2, I3 V1, V2, V3    
+Sketch the Schematic Diagram   Power Voltage Current Resistance Resistor 1 90 mW 30 V 3 mA 10K ohm
+Resistor 2 270 mW 90 V 3 mA 30K ohm
+Resistor 3 180 mW 60 V 3 mA 20K ohm
+Total
+540 mW 180V 3 mA 60K ohm  
+4. A 5.5K ohms resistor is in series with an unknown resistance. The applied voltage equals 110V, and the series current is 1.4mA. Complete the chart below . Show all work. Power Voltage Current Resistance Resistor 1 10mW
+7.7V 1.4 mA 5.5k ohm Resistor 2 143mW
+102.29 V 1.4 mA 73.07k ohm Total 154mW
+110 V 1.4 mA 78.57k ohm Show all work 110/0.0014 = 78.57K
+78570-5500= 73.07k
+73070 * 0.0014 = 102.29
+5500*0.0014= 7.7 7.7*0.0014=0.0107 102.29*0.0014=0.143 110*0.0014=0.154     5. A circuit has a source voltage of 180V . Three resistors are connected in parallel
+: R1 is red, black, and orange ohms; R2 is yellow , black, and orange ohms, while R3 is 3.5K ohms. Complete the chart below . Show all work. Power Voltage Current Resistance Resistor 1 1.62 W
+180V 9mA 20k ohms Resistor 2 810mW
+180V 4.5mA 40k ohms Resistor 3
+9.26W 180V 51.4mA 3.5k ohms Total 11.69W
+180V 64.9mA 3.09k ohms Show all work R1= 20000 R2= 40000 Req = 1/(1/20000 + 1/40000 + 1/3500) = 3093 180/20000 = 0.009 180/40000 = 0.0045 180/3500 = 0.0514 180/3090 = 0.0649 180*0.009 = 1.62 180*0.0045 = 0.81 180*0.0514 = 9.26
+180*0.0649 = 11.69    
+6.
+  
+Four resistors are connected in parallel with a voltage source of 4V. The resistors are R1= 1
+K
+ohms, R2= red, red, red while R3= blue, grey, red, and R4= 470 ohms. Complete the table below. Power Voltage Current Resistance Resistor 1 16mW
+4 V 4mA 1k ohms Resistor 2 7.27mW
+4 V 1.82mA 2.2k ohms Resistor 3
+2.35mW 4 V 588uA 6.8k ohms Resistor 4
+34mW 4 V 8.51mA 470 ohms Total 59.62mW
+4 V 14.92mA 268.2 ohms Show all work R2 = 2200 R3 = 6800
+req = 1/(1/1000 + 1/2200 + 1/6800 + 1/470) = 268.2
+4/1000 = 0.004 4/2200 = 0.00182 4/6800 = 0.000588 4/470 = 0.00851 4/268.2 = 0.01492 4*0.004 = 0.016 4*0.00182 = 0.00727 4*0.000588 = 0.00235 4*0.00851 = 0.034 4*0.01492 = 0.05962 7. A circuit contains four resistors connected in parallel across a 24V voltage source. R1= brown, black, black; R2= red, black, black; R3= orange, black, black, and R4= 40 ohms. Complete the table below. Power Voltage Current Resistance Resistor 1 57.6W
+24V 2.4A 10 ohms Resistor 2 28.8W
+24V 1.2A 20 ohms
+Resistor 3
+19.2W 24V 800mA 30 ohms
+Resistor 4
+14.4W 24V 600mA 40 ohms Total 120W
+24V 5A 4.8 ohms Show all work R1 = 10 R2 = 20 R3 = 30
+req = 1/(1/10 + 1/20 + 1/30 + 1/40) = 4.8 24/10 = 2.4 24/20 = 1.2
+24/30 = 0.8 24/40 = 0.6 24/4.8 = 5A 24*2.4 = 57.6 24*1.2 = 28.8 24*0.8 = 19.2 24*0.6 = 14.4 24*5 = 120   8. A parallel circuit has a total voltage of 120V and contains resistors with the following color bands.
+   R1= Red, Green, Red
+                                                       
+R2= White, Black, Red a) Using the resistor color codes table, identify the resistive value of the resistor . R1 = 2.5K ohms
+R2 = 9K ohms     
+b) If the fourth band for all the resistors is gold, determine the tolerance range for each resistor . R1 = 2.375K ohms to 2.625K ohms
+R2= 8.55K ohms to 9.45K ohms
+             
+c) A series circuit with a voltage source of 120V is connected with two resistors using the minimum tolerance value of each resistor stated above. Complete the chart.  
+Power Voltage Current Resistance
+Resistor 1 286mW
+26.08V 10.98mA 2.375K ohms Resistor 2 1.031W
+93.92V 10.98mA 8.55K ohms Total 1.317W
+120V 10.98mA 10.925K ohms 

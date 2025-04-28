@@ -1,0 +1,127 @@
+Engineering Systems
+Solve problems using vectoring (e.g., predict resultant forces)
+A vector is a force with magnitude and direction. For example, velocity has both a magnitude, how fast the velocity actually is, and also a direction, where the velocity is going. Vectors are usually the resultant force that comes from 2 or more other forces. You can calculate the vector force by first finding out what value you need to find, whether its motion or force. By using the correct formula and plugging in all the information, you can get the magnitude of the resultant force. You can also calculate the direction of the vector by drawing a line from the beginning of the first force to the end of the second force.  
+Questions:
+1) What is a vector?
+a) A force that has magnitude and direction
+b) An arrow
+c) A value of money
+d) A unit of measurement 2) How can you calculate the direction of the vector? a) Draw a line from the start to the end b) Ask chatgpt
+c) Divide the force by the mass d) F=ma
+Identify common forces that act on materials (e.g., torsion, shear, compression)
+Torsion- the twisting of an object due to an applied force Shear- The punching force, Ex: pressing the tip of a pen through paper Compression- pushing force that squeezes an object
+Tension- pulling forces that cause an object to be stretched or pulled apart.
+Friction- the contact force that opposes applied force/relative motion. Questions:
+1) What is compression force? a) Pulling force
+b) Pushing force
+c) Contact force
+d) Twisting force
+2) Which of the following is not a common force? a) Friction
+b) Compression
+c) Mass
+d) Tension Demonstrate the effect of electrical components within an electrical system
+Resistors: limits the flow of current through a circuit Capacitors: stores electrical energy in the form of an electrical field
+Inductors: stores electrical energy in the form of a magnetic field Switches: A button to either allow current to flow through a circuit or not Diodes: A component that allows for current to flow in only 1 direction
+Questions:
+1) What does a resistor do in a circuit?
+a) Limits the flow of current
+b) Stores electrical energy
+c) Blows up the circuit
+d) Cuts the wire in a circuit 2) What form do inductors take to store electrical energy?
+a) Electrical field
+b) Magnetic field
+c) Soccer field
+d) Football field
+Apply Ohm's Law, Watt's Law, and Kirchhoff’s Law
+Ohm’s law: shows the relationship between current, voltage, and resistance V = I*R R=V/I I=V/R
+Watt’s Law: Shows the relationship between power, voltage and current
+ P = V*I
+Kirchhoff’s current law: States how the sum of the current going into a component should be the same amount as the current going out of the circuit. Kirchhoff’s voltage law: States how the sum of all the voltage changes around a closed circuit must equal 0. Questions:
+1) Kirchhoff’s voltage law states that the sum of all voltage changes must equal ___ a) 0
+b) 50 c) 748 d) 4927 2) What does Watts' law show?
+a) Relationship between power, current, and voltage
+b) Relationship between voltage and resistance
+c) Relationship inductance and capacitance
+d) Relationship between kinetic energy and potential energy
+Identify series, parallel, and combination circuits
+Series: A circuit that only has one path for current to flow. Components are end to end in a single closed loop. Current stays the same in this circuit Parallel: A circuit that has multiple paths for current to flow. Voltage stays the same in this circuit
+  
+Combination circuit: A circuit that contains both a series and parallel circuit.
+   Questions:
+1) What stays the same in a series circuit?
+a) Current
+b) Voltage
+c) Resistance
+d) Capacitance
+2) What stays the same in a parallel circuit?
+a) Current
+b) Voltage
+c) Resistance
+d) Capacitance Apply knowledge of AC and DC systems
+AC: Alternating current, current can flow in multiple directions. Used in power transmission over long distances - You can apply this type of current when looking at generators transmitting power over a long distance DC: Direct current, current can only flow in 1 direction. Used in electronics and battery powered devices
+- You can apply this type of knowledge to any battery powered device like a computer or phone. Questions:
+1) Where can you use AC systems?
+a) Phone battery
+b) Computer
+   c) Laptiops d) Power transmission 2. Where can you find DC elevctricity? a. In electronics b. In power transmission c. In power lines
+d. In transformers
+Demonstrate the effect of resistant sounds in a fluid system In a fluid system, "resistant sounds" (meaning sounds that encounter resistance or attenuation) manifest as reduced sound pressure levels and altered wave propagation, potentially leading to destructive interference or sound absorption, depending on the nature of the resistance and the fluid properties. Interference may also occur if there are multiple different sound waves.
+Questions: 1. What of the following can create interference in sound waves? a. Other sound waves b. Sounds cannot be interfered with c. Electricity
+ d. Air 2. Which of the following can influence the prpoperties of sound waves a. The medium of the fluid b. The speed of sound
+c. Electricity in the fluid d. Temperature Apply knowledge of hydraulic, pneumatic, and mechanical systems Mechanical Systems
+: Use physical components and motion to transfer power and force to other components Hydraulic
+: Uses pressurized liquids to transfer power and create force through moving liquids Pneumatics
+: Uses compressed air to in a vacuum to create motion
+  
+Questions: 1. What systems use compressed air? a. Mechanical
+b. Hydraulic c. Pneumatics d. None of these 2. Which of these systems do not require fluids? a. Mechanical
+b. Hydraulic c. Pneumatics d. All of the them
+Identify heat transfer methods Conduction
+: A method of heat transfer where there is direct contact between solids Convection
+: A method of heat transfer where heat is transferred with contact between fluid including liquids and gasses Radiation
+: Heat transfer through electromagnetic waves. No medium is required and this heat transfer can happen in a vacuum.
+Questions 1. What method of heat transfer requires no medium? a. Conduction b. Convection c. Radiation d. All methods of heat transfer require a medium to transfer heat 2. What is the difference between conduction and convection? a. Conduction uses solids whereas convection uses fluids b. Conduction transfers heat whereas convection transfers cold c. Conduction and Convection are the same d. Conduction is for electricity and convection is for heat transfer
+   Convert engineering measurements between different unit systems Typically, engineers use SI units to denote measurements. Usually, there is a conversion factor that you can multiply but to convert between units and systems
+1 in. = 2.54 cm o
+F = (
+o
+C * 9/5) + 32 1 lb = 453.59g Questions
+: 1. What is the conversion factor for inches to feet a. 1.0 b. 2.54 c. 3.14 d. 9.81 2. What is the conversion factor for pounds to grams? a. 100 b. 250 c. 453 d. 864
+Compare/contrast conductors and insulators Electrical conductors allow electrons to flow through them. Electrical insulators do not allow the flow of electrons. Some common conductors include copper, gold and silver wire. Some common insulators include rubber, glass, and plastic.
+Questions
+: 1. What material is an insulator? a. Copper b. Gold c. Rubber d. Silver 2. Which material is a conductor? a. Glass b. Plastic c. Copper d. Rubber
+Solve thermal problems using appropriate units Heat is measured with the temperature of an object The units for temperature are fahrenheit (
+o
+F), celsius (
+o
+C), and kelvins (K).
+o
+C = (
+o
+F - 32) * 5/9
+ o
+F = (
+o
+C * 9/5) + 32 K = o
+C + 273.15
+Question 1. What is the formula for converting celsius to kelvin? a. K = (
+o
+C - 32) * 5/9 b. K = (
+o
+C * 9/5) + 32 c. K = o
+C + 273.15 d. You cannot convert celsius to kelvin 2. What is 32
+o
+F in Celsius? a. 0
+o b. 32
+o c. 60
+o d. 100
+o Determine appropriate uses of digital and analog systems Analog Systems use fluctuations in sound waves or voltage to represent information. Digital systems are binary and can only represent 1 or 0. With an analog system, you are able to represent a wider array of information with less resources, however, they are more susceptible to interference and misreadings. Digital systems can only have one of two values at a time so they will need more resources to represent a larger range of information, however, they are less susceptible to random fluctuations as they can only be on or off.
+Questions
+: 1. What is the advantage of using digital systems? a. They are more accurate b. They are able to represent a larger range of information c. They are less accurate d. They cannot represent a large range of information
+2. What is the advantage of using analog systems? a. They are more accurate b. They are able to represent a larger range of information c. They are less accurate d. They cannot represent a large range of information  
+Quizlet questions:
+1) Torsion act of twisting; stress due to twisting forces exerted 2) Bending
+Compression and tension force 3) Compression
+ A force that pushes on or squeezes a material. 4) Tension Pulling force 5) Shear Sliding force
+6) Using Ohm's Law, how much current is going through the following circuit? 15.5 and 5 Ohms resistance 3.1 amps 7) In order to reduce friction between a workpiece and a cutting site, _____________ is used. Cutting fluid  
+ 
