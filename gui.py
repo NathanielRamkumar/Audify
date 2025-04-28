@@ -28,7 +28,7 @@ class terminalGUI:
         if x == 0:
             self.scanPdf()
         elif x == 1:
-            pass
+            self.listenToFile()
         elif x == 2:
             os._exit()
     
