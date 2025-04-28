@@ -8,5 +8,6 @@ The app is still in the alpha stages of development, and there will be more feat
 
 Features to Expect:
 1. Installation Intructions
-2. GUI
-3. PDF scanning by page
+2. Graphical User Interface
+3. Compiled Build
+4. PDF scanning by page
