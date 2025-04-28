@@ -11,3 +11,12 @@ Features to Expect:
 2. Graphical User Interface
 3. Compiled Build
 4. PDF scanning by page
+
+Dependencies
+1. Python 3.12.x
+Download: https://www.python.org/downloads/
+2. PyPDF2
+`pip install PyPDF2`
+3. Miniaudio
+`pip install miniaudio`
+4. 
