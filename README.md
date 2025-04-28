@@ -4,7 +4,7 @@ Welcome to Audify!
 
 This is an app that will convert PDF files to usable audiobooks. The goal of this app is to make digital books more accessible for people with dylexia by converting them into a digital format. The audio is stored locally so it's easier to export to different locations. 
 
-The app is still in the alpha stages of development, and there will be more features to come
+The app is still in the alpha stages of development, and there will be more features to come. The is NO DOWNLOADABLE VERSION... yet. If download all of the dependencies and run `gui.py` , the program will function as intended.
 
 Features to Expect:
 1. Installation Intructions
@@ -17,6 +17,7 @@ Dependencies
 Download: https://www.python.org/downloads/
 2. PyPDF2
 `pip install PyPDF2`
-3. Miniaudio
+4. Miniaudio
 `pip install miniaudio`
-4. 
+5. gTTS
+`pip install gTTS`
